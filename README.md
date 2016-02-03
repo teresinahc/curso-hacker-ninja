@@ -12,7 +12,7 @@ Vamos criar um time onde teremos os instrutores para ensinsar programação e el
 
 ## O que vamos ensinar?
 
-* Ninjutsu Hackers (artes ninjas)
+* Ninjutsu Hackers (artes ninjas de programação e eletrônica)
  
 ## Equipes
 
