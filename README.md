@@ -19,6 +19,12 @@ Vamos criar um time onde teremos os instrutores para ensinsar programação e el
 * Ninja sensei
 * Ninja gafanhoto
 
+## Cursos
+* Linux
+* Python
+* Eletrônica
+* Robôtica com Arduino
+
 
  
 
