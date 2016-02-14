@@ -4,7 +4,7 @@ Repositório da ementa do curso de Programação e Eletrônica
 
 ## O que é?
 
-Um curso realizado de forma descentralizada e com uma dinâmica onde todos ensinam e todos aprendem.
+Um curso realizado de forma descentralizada e com uma dinâmica onde todos ensinam e todos aprendem. Cada curso se divide em trilhas sendo que cada trilha se divide em uma ou mais oficinas que é o modelo como. o conteúdo será ministrado. As oficinas devem ser planejadas com uma didática simples e amigável e que possam ser ministradas em um periódo de 4 (quatro) horas.
 
 ## Como vai Funcionar?
 
